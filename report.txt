@@ -1,0 +1,14 @@
+Resume Analysis Report
+=====================
+
+Skills Found:
+- Python
+- SQL
+- Git
+
+Missing Skills:
+- Java
+- C++
+
+Resume Score: 70/100
+Resume Rating: Good

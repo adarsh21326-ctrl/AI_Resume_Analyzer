@@ -1,0 +1,12 @@
+Adarsh D
+
+Skills:
+python
+sql
+git
+
+Education:
+BCA
+
+Projects:
+Mini AI Agent
